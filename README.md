@@ -11,10 +11,13 @@ The purpose of this repository is to:
 - Provide detailed notes and walkthroughs for specific machines and exercises.
 - Track your progress and areas of improvement over time.
 
-## Notes Overview
+## Notes Structure
 
-**Location**: https://drive.google.com/drive/folders/1H5ll76Ql2dwyYW53_Pgh6g0-ryg8GY34?usp=sharing
+```plaintext
+Coming Soon!
 ```
+
+## Notes Overview
 The notes includes insights on:
 
 - Enumeration and reconnaissance
@@ -23,6 +26,7 @@ The notes includes insights on:
 - Privilege escalation
 - Scripting and automation
 - Notes on tools like nmap, Burp Suite, Metasploit, LinPEAS, and custom scripts.
+- Networking
 
 ## Suggested Tools
 
