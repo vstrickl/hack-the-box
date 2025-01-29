@@ -13,7 +13,7 @@ ISO/OSI model or Open Systems Interconnection (OSI) is a reference model that ca
 ### The 7 Individual layers of the OSI model
 1. Physical
 2. Data Link
-3. Network
+3. [Network](./network-layer.md)
 4. Transport
 5. Session
 6. Presentation
