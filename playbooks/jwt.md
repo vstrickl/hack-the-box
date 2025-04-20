@@ -1,0 +1,1 @@
+https://github.com/buggysolid/bugbounty-wordlist/blob/main/jwt.secrets.list
